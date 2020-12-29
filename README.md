@@ -5,3 +5,7 @@ $Id$
 MIDIbox forum article:
 http://www.com.orgREADME.md?!Swing
 # Helloworld
+  
+story.txt
+story-joe-edit.txt
+story-joe-edit-reviewed.txt
