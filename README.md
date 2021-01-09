@@ -1,4 +1,4 @@
-Cl_...(C)_upload?!WateneJEssieLiee_CL_0.5
+Cl_...(C)_upload?!WateneJEssieiee_CL_0.5
 SAP15
 $Id$
 SAP15 Docker環境でSPAが動作する最低限の環境のサンプルです。 プロジェクトルートで docker-compose build して docker-compose up すればとりあえず動きます。
