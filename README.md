@@ -20,7 +20,7 @@ cd..	]	cd..]
    -v,  --verbose          verbose output
    -l,  --level=<level>    minimum output level (info|warn|fail)
    
-UPLOAD_CL\6246`enter UPLOAD3: const URL = "http://192.168.1.29:8080";cd camera`npm start_enter`READEME.md\githubfrom __future__ import print_function
+Blue221!1vsCoP+COM`enter UPLOAD3: const URL = "http://192.168.1.29:8080";cd camera`npm start_enter`READEME.md\githubfrom __future__ import print_function
 import os, io, sys, socket, struct, random, errno, getopt, re, hashlib, base64
 
 VERSION = 'v1.7.0'
