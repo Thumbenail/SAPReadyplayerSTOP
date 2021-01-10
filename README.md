@@ -2,7 +2,13 @@ Cl_...(C)_upload?!WateneJEssieiee_CL_0.5
 SAP15
 $Id$
 SAP15 Docker環境でSPAが動作する最低限の環境のサンプルです。 プロジェクトルートで docker-compose build して docker-compose up すればとりあえず動きます。
-MIDIbox forum article:﻿[Broot:S"A2<SAP!># Helloworld
+MIDIbox forum article:﻿[   at System.Drawing.FontFamily.CreateFontFamily(String name, FontCollection fontCollection)
+   at SolutionsFrameworkService.HPDIA.Controls.HPButton.InitializeComponent()
+   at SolutionsFrameworkService.HPDIA.Controls.HPButton..ctor()
+   at HPSSFUpdater.View.MessageBoxUC.InitializeComponent()
+   at HPSSFUpdater.View.MessageBoxUC..ctor()
+   at HPSSFUpdater.View.MainWindow._bgWorker_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)
+# Helloworld
 SAP15
 \A.D	cd\]cd..	]cd..	]
 cd..	]	cd..]	
