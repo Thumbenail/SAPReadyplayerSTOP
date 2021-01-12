@@ -1,7 +1,4 @@
-Cl_...(C)_upload?!WateneJEssieiee_CL_0.5
-SAP15
-$Id$
-SAP15 Docker環境でSPAが動作する最低限の環境のサンプルです。 プロジェクトルートで docker-compose build して docker-compose up すればとりあえず動きます。
+Cl_...(C)_upload?!CL_0.5SAP15_SAP15 Docker環境でSPAが動作する最低限の環境のサンプルです。 プロジェクトルートで docker-compose build して docker-compose up すればとりあえず動きます。
 MIDIbox forum article:﻿[   at System.Drawing.FontFamily.CreateFontFamily(String name, FontCollection fontCollection)
    at SolutionsFrameworkService.HPDIA.Controls.HPButton.InitializeComponent()
    at SolutionsFrameworkService.HPDIA.Controls.HPButton..ctor()
