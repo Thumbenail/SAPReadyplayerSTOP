@@ -6,12 +6,12 @@ MIDIbox forum article:﻿[   at System.Drawing.FontFamily.CreateFontFamily(Strin
    at HPSSFUpdater.View.MessageBoxUC..ctor()
    at HPSSFUpdater.View.MainWindow._bgWorker_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)
 # Helloworld
-SAP15 { ROOY.RROTT.riot/EdwardKenyaFleet.READMe.PlingB/1234 `Password Kitkatlilee33`Enter
+SAP15 { ROOY.RROTT.riot/EdwardKenyaFleet.READMe.PliingB/1234 `Password Kitkatlilee33`Enter
 \A.D	cd\]cd..	]cd..	]DEDREDREDRED.Readme
 cd..	]	cd..]	
 ]	
 ]\PARA.DA12]
-`UPLOAD_CMS]usage: ssh-audit.py [-1246pbnvl] <host>
+`UPLOAD_CMS]usage: ssh-audit.Readme.Pliing [-1246pbnvl] <host>
 
    -1,  --ssh1             force ssh version 1 All
    -2,  --ssh2             force ssh version 2 All
