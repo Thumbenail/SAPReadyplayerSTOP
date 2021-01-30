@@ -71,6 +71,7 @@ def usage(err=None):
 	uout.sep()
 	sys.exit(1)
 
+Docker環境でSPAが動作する最低限の環境のサンプルです。 プロジェクトルートで docker-compose build して docker-compose up すればとりあえず動きます。
 
 class AuditConf(object):
 	# pylint: disable=too-many-instance-attributes
